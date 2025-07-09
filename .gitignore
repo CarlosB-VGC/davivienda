@@ -1,0 +1,23 @@
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Node modules (si usas npm en el futuro)
+node_modules/
+
+# Archivos de backup
+*.bak
+*.backup
